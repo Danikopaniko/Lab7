@@ -44,6 +44,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BankTerminal.cs" />
+    <Compile Include="ClosureDemo.cs" />
+    <Compile Include="DiscountManager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
